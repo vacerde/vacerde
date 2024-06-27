@@ -48,9 +48,8 @@ Tools & technologies I have worked with: <br>
 - <a href = "https://owd.vacer.de">OWD</a> an online tool to create your own website. Kinde like codepen.
 
 ### 💡 Goals for 2024
-- Contribute to 5+ FOSS projects 
-- Explore lower level languages
-- [Create some cool circut sculptures](https://twitter.com/MohitBhoite)
+- Finish more mesmerizing gamemodes for vacer
+- Learn more and collect experience
 
 ### 🌴 Fun facts
 - I only play minecraft
