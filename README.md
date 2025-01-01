@@ -72,3 +72,4 @@ Tools & technologies I have worked with: <br>
 ### ☕ Get in touch
 - Email: <a href="mailto:strong@vacer.de">strong@vacer.de</a>
 - Discord: ign: strongcode or at vacer.de/discord
+- Website: strong.vacer.de
