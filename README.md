@@ -50,13 +50,15 @@ Tools & technologies I have worked with: <br>
 ![Vite](https://img.shields.io/badge/-Vite-141414?style=flat&logo=vite)
 
 
-### ✔️ I'm currently learning
-- GraphQL
+### ✔️ I'm currently mostly using
+- NextJS
+- React
 - TypeScript
 
 ### 💻 Projects
 - <a href = "https://vacer.de">Vacer.de</a> a minecraft network. Position: Owner + Development Mangagement
 - <a href = "https://owd.vacer.de">OWD</a> an online tool to create your own website. Kinde like codepen.
+- <a href = "https://hawk-dev.net">Hawk</a> a game server management tool, build from the ground up.
 
 ### 💡 Goals for 2024
 - Finish more mesmerizing gamemodes for vacer
