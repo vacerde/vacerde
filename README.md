@@ -62,6 +62,7 @@ Tools & technologies I have worked with: <br>
 
 ### 💡 Goals for 2025
 - Finish more mesmerizing gamemodes for vacer
+- Finish Hawk
 - Learn more and collect experience
 
 ### 🌴 Fun facts
