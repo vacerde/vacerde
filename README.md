@@ -14,6 +14,8 @@
 </picture>
 </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vacerde)](https://git.io/streak-stats)
+
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 ### ⚡ Technologies
