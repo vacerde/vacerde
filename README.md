@@ -61,7 +61,7 @@ Tools & technologies I have worked with: <br>
 
 ### 💻 Projects
 - <a href = "https://vacer.de">Vacer.de</a> a minecraft network. Position: Owner + Development Mangagement
-- <a href = "https://owd.vacer.de">OWD</a> an online tool to create your own website. Kinde like codepen.
+- <a href = "https://owd.vacer.de">OWD</a> an online tool to create your own website. Kinda like codepen.
 - <a href = "https://hawk-dev.net">Hawk</a> a game server management tool, build from the ground up.
 
 ### 💡 Goals for 2025
