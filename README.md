@@ -68,6 +68,7 @@ Tools & technologies I have worked with: <br>
 - Finish more mesmerizing gamemodes for vacer
 - Finish Hawk
 - Learn more and collect experience
+- Participate in a Hackathon
 
 ### 🌴 Fun facts
 - I only play minecraft
