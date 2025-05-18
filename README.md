@@ -70,6 +70,9 @@ Tools & technologies I have worked with: <br>
 - Learn more and collect experience
 - Participate in a Hackathon
 
+### 🧪 Hackathons
+- None yet
+
 ### 🌴 Fun facts
 - I only play minecraft
 - I like to Skript (Minecraft Skript Plugin)
