@@ -34,8 +34,6 @@ Languages I use: <br>
 ![TypeScript](https://img.shields.io/badge/-TypeScript-141414?style=flat&logo=typescript)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-141414?style=flat&logo=graphql)
 ![SQL](https://img.shields.io/badge/-SQL-141414?style=flat&logo=postgresql)
-![Sass](https://img.shields.io/badge/-Sass-141414?style=flat&logo=sass)
-![Php](https://img.shields.io/badge/-Php-141414?style=flat&logo=php)
 
 Tools & technologies I have worked with: <br>
 ![MySQL](https://img.shields.io/badge/-MySQL-141414?style=flat&logo=mysql)
