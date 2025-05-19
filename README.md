@@ -21,7 +21,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 ### ⚡ Technologies
-- Front-end development using Angular, CSS, SASS, Bootstrap
+- Front-end development using NextJS including TailwindCSS and TypeScript
 - Backend development using Typescript, NodeJS, ExpressJS (ejs), GraphQL, MongoDB, PHP
 - Deployement using Proxmox VMs and Pterodactyl (Soon Pelican)
 
