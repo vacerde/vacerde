@@ -22,7 +22,7 @@
 
 ### ⚡ Technologies
 - Front-end development using NextJS including TailwindCSS and TypeScript
-- Backend development using Typescript, NodeJS, ExpressJS (ejs), GraphQL, MongoDB, PHP
+- Backend development using Typescript, NodeJS, ExpressJS (ejs), GraphQL, MongoDB and Supabase
 - Deployement using Proxmox VMs and Pterodactyl (Soon Pelican)
 
 Languages I use: <br>
