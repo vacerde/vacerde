@@ -18,13 +18,11 @@
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=vacerde&theme=tokyonight" />
 </p>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
 ### ⚡ Technologies
 - Front-end development using NextJS including TailwindCSS and TypeScript
 - Backend development using Typescript, NodeJS, ExpressJS (ejs), GraphQL, MongoDB and Supabase
 - Deployement using Proxmox VMs and Pterodactyl (Soon Pelican)
-- Doing some self hosting 
+- Doing some self hosting
 
 Languages I use: <br>
 ![Bash](https://img.shields.io/badge/-Bash-141414?style=flat&logo=gnu-bash)
